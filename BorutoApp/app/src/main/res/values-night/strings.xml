@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BorutoApp</string>
+    <string name="app_logo">App Logo</string>
+    <string name="onboarding_image">On boarding image</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="star_path">M12,19.288 L19.416,24l-1.968,-8.88L24,9.145l-8.628,-0.771L12,0l-3.372,8.375L0,9.145 6.552,15.12 4.584,24Z</string>
+    <string name="hero_image">Hero Image</string>
+    <string name="error_page">Error Page</string>
+    <string name="search_item">Search Item</string>
+    <string name="close_icon">Close Icon</string>
+    <string name="info_icon">Info Icon</string>
+    <string name="power">Power</string>
+    <string name="month">Month</string>
+    <string name="birthDay">Birthday</string>
+    <string name="about">About</string>
+    <string name="family">Family</string>
+    <string name="abilities">Abilities</string>
+    <string name="nature_types">Nature Types</string>
+</resources>
